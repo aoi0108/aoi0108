@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi I'm Aoi 👋
 
-<!--
-**aoi0108/aoi0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left" >
+  🫧About me
+</h2>
+<p>
+- 🧑‍🎓 Computer Science student at Tsuda University
+</p>
+<p>
+- 👩‍💻 Studying mobile development
+</p>
+<p>
+- 📱 Interested in mobile, web, UI/UX design
+</p>
 
-Here are some ideas to get you started:
+<h2 align="left" >
+  ⚒️Tech Stack
+</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,swift,java,javascript,p5js,react,html,css,python,unity,supabase,azure,figma,blender&perline=8" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left" >
+  ✉️Contact
+</h2>
+<a href="mailto:hira.aoi.18@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/aoi-hiramatsu/">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
