@@ -22,11 +22,11 @@
   </a>
 </p>
 
-<h2>📊 GitHub Stats</h2>
+<!-- <h2>📊 GitHub Stats</h2>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aoi0108&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoi0108&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoi0108&layout=compact&theme=radical) -->
 
 <h2>📈 Activity Graph</h2>
 
