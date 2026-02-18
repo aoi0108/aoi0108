@@ -22,6 +22,16 @@
   </a>
 </p>
 
+<h2>📊 GitHub Stats</h2>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aoi0108&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoi0108&layout=compact&theme=radical)
+
+<h2>📈 Activity Graph</h2>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aoi0108&theme=rose_pine)](https://git.io/streak-stats)
+
 <h2 align="left" >
   ✉️Contact
 </h2>
