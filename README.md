@@ -4,9 +4,6 @@
   🫧About me
 </h2>
 <p>
-- 🧑‍🎓 Computer Science student at Tsuda University
-</p>
-<p>
 - 👩‍💻 Studying mobile development
 </p>
 <p>
@@ -18,7 +15,7 @@
 </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,swift,java,javascript,p5js,react,html,css,python,unity,supabase,azure,figma,blender&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,swift,java,javascript,react,html,css,figma&perline=5" />
   </a>
 </p>
 
@@ -28,9 +25,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoi0108&layout=compact&theme=radical) -->
 
-<h2>📈 Activity Graph</h2>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aoi0108&theme=rose_pine)](https://git.io/streak-stats)
 
 <h2 align="left" >
   ✉️Contact
