@@ -33,6 +33,11 @@
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
 
+<a href="https://x.com/hrmt0108_">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="x" />
+</a>
+
+
 <a href="https://www.linkedin.com/in/aoi-hiramatsu/">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
