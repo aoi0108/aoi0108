@@ -37,7 +37,3 @@
   <img src="https://skillicons.dev/icons?i=twitter" alt="x" />
 </a>
 
-
-<a href="https://www.linkedin.com/in/aoi-hiramatsu/">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
